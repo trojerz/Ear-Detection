@@ -1,0 +1,1 @@
+Average IoU is 31 %. Maximum IoU: 88.86 %. We did not get prediction in 39 / 250 cases
