@@ -11,6 +11,7 @@ This is a Keras port of the SSD model architecture introduced by Wei Liu et al. 
 * TensorFlow 2.1.0
 * Keras 2.3.1
 * OpenCV
+* CUDA 10.1
 
 Exported environment: environment.yml
 
